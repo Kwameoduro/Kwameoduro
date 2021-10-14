@@ -3,7 +3,7 @@
 
 Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...creating the  message bot
+- 🔭 I’m currently working on ...creating a message bot
 - 🌱 I’m currently learning ...python
 - 👯 I’m looking to collaborate on ...web design, graphic design and python
 - 🤔 I’m looking for help with ...python
